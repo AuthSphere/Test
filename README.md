@@ -1,4 +1,4 @@
-# AuthSphere Test App
+# AuthSphere Test
 
 Demo project showcasing the AuthSphere SDK (`@authspherejs/sdk`) — OAuth login, local auth, OTP verification, protected dashboard, and session handling.
 
